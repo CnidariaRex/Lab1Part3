@@ -23,5 +23,7 @@ public class Factorial {
 
 	  System.out.println("Changes after my first commit!");
 
+	  System.out.println("Changes after pushing to remote!");
+
 	}
 }
